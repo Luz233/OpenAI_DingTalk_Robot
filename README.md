@@ -1,5 +1,5 @@
-# OpenAI_DingTalk_Robot 基于OpenAI的钉钉机器人
-## 使用前提
+# OpenAI_DingTalk_Robot 一个简单的基于OpenAI的钉钉机器人
+## 使用条件
 1. 拥有一个公网服务器，或拥有公网地址（含映射）的PC，供钉钉机器人收到消息后回调
 2. 拥有一个OpenAI的账号，并且获取key
 3. 创建一个带交互功能的钉钉机器人
@@ -15,3 +15,5 @@
 
 ## 测试效果
 ![c537770fd826c879018b1542b10dbdf](https://user-images.githubusercontent.com/58980928/206437335-beff885a-e167-472f-a2ff-8b0c779f762e.jpg)
+![bbbba9c263da2671ee943885b125a7a](https://user-images.githubusercontent.com/58980928/206437756-8f7231c0-d62b-4ca6-afd9-cd88149b11a3.jpg)
+
