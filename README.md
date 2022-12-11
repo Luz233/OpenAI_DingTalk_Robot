@@ -1,4 +1,4 @@
-# OpenAI_DingTalk_Robot 一个简单的基于OpenAI的钉钉机器人
+# ChatGPT_OpenAI_DingTalk_Robot 一个简单的基于OpenAI的钉钉机器人
 ## 使用条件
 1. 拥有一个公网服务器，或拥有公网地址（含映射）的PC，供钉钉机器人收到消息后回调
 2. 拥有一个OpenAI的账号，并且获取key
